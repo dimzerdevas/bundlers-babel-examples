@@ -8,10 +8,8 @@ module.exports = {
     },
     devServer: {
         static: {
-            directory: path.join(__dirname, './'), // Path to your public folder
+            directory: path.join(__dirname, './'), // Path to your public folder (with an index.html)
         },
-        // compress: true,
-        // port: 9000, // Choose any available port
     },
    mode: "production" // Either 'development' or 'production'
 };
