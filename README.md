@@ -16,7 +16,6 @@ Contents
         cd webpack
         npm run bundle
         npm start
-
         ```
 
 2.  Rollup Example:
@@ -28,6 +27,5 @@ Contents
         ```
         cd rollup
         npm run bundle
-
         ```
     -   Open ` index.html ` to see the result.
