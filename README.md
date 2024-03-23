@@ -1,1 +1,1 @@
-# Playground to understand react
+# Playground to understand bundlers and babel
