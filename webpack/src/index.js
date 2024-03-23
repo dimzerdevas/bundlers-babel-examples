@@ -15,4 +15,6 @@ const randomNumber = generateRandomNumber();
 
 const result = isEven(randomNumber);
 
-console.log(`The random number ${randomNumber} is ${result}.`);
+const element = document.querySelector("div");
+
+element.textContent = `The random number ${randomNumber} is ${result}.`;
