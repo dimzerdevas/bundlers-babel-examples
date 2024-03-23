@@ -29,3 +29,15 @@ Contents
         npm run bundle
         ```
     -   Open ` index.html ` to see the result.
+
+3.  Babel Example:
+
+    -   The `babel` folder showcases Rollup usage.
+    -   It includes an entry point (`src/index.js`) and a Babel configuration (`.babelrc`).
+    -   To run the example:
+
+        ```
+        cd babel
+        npm run transpile
+        ```
+    -   See the file generated in `dist/bundle.js`

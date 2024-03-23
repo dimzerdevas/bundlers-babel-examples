@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "bundle": "npx babel src/index.js --out-file dist/bundle.js"
+    "transpile": "npx babel src/index.js --out-file dist/bundle.js"
   },
   "author": "",
   "license": "ISC",
