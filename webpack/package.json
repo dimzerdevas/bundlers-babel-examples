@@ -1,0 +1,16 @@
+{
+  "name": "bundlers-paradise",
+  "version": "1.0.0",
+  "description": "a playground to understand bundlers and babel",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --open"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.91.0",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^5.0.4"
+  }
+}
