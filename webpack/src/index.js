@@ -1,5 +1,8 @@
 import { isEven } from "./helpers";
 
+const a = "test2";
+
+console.log(a);
 function greet() {
   console.log("Hello from Webpack!!");
 }

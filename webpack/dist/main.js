@@ -1,1 +1,1 @@
-(()=>{"use strict";console.log("Hello from Webpack!!");const e=(()=>{const e=10*Math.random();return Math.round(e)})(),o=e%2==0?"even":"odd";document.querySelector("div").textContent=`The random number ${e} is ${o}.`})();
+(()=>{"use strict";console.log("test"),console.log("test2"),console.log("Hello from Webpack!!");const o=(()=>{const o=10*Math.random();return Math.round(o)})(),e=o%2==0?"even":"odd";document.querySelector("div").textContent=`The random number ${o} is ${e}.`})();
