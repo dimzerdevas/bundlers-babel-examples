@@ -7,28 +7,9 @@
   margin: 10px 20px;
 }
 
-.actions {
+.view-container {
   display: flex;
-  justify-content: center;
-  width: 80vw;
-  margin-bottom: 40px;
-  font-size: 25px;
-}
-
-.actions select {
-  margin-right: 40px;
-  border-radius: 10px;
-  font-size: 25px;
-}
-
-.editor-container {
-  display: flex;
-  justify-content: center;
-  width: 80vw;
-}
-
-.editor {
-  margin: 0px 15px;
-  border: 1px solid black;
-  width: 35vw;
+  justify-content: space-around;
+  align-items: center;
+  width: 80%;
 }
